@@ -2,7 +2,7 @@ source https://www.nuget.org/api/v2
 
 nuget Chiron
 nuget Fuchu
-nuget Http.fs-prerelease
+nuget Http.fs
 nuget NodaTime
 nuget NuGet.CommandLine
-nuget FSharp.Core ~> 3
+nuget FSharp.Core
